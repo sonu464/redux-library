@@ -1,0 +1,3 @@
+# REDUX
+
+WHAT IS REDUX ?
